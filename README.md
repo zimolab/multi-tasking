@@ -7,7 +7,7 @@ A simple python library to simplify multitasking programming with ProcessPoolExe
 ## Installation
 
 ```shell
-pip install multi-tasking
+pip install py-multitasking
 ```
 
 
